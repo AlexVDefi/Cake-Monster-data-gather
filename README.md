@@ -3,7 +3,9 @@ Utility script for pulling various Cake Monster data
 
 API keys needed:
 https://graphql.bitquery.io/ide
+
 https://moralis.io/
+
 https://bscscan.com/
 
 Just sign up for free accounts and get the API keys.
